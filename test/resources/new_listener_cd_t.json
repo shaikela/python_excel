@@ -1,0 +1,41 @@
+{
+	"CreateDelivery": {
+		"userName": "JWGusernameTest",
+		"password": "JWGpasswardTest",
+		"s": {
+			"Wrapper": "Elitsur A",
+			"Bin": "",
+			"Fourlogref": "",
+			"AddrValid": "ACK",
+			"Location": 1,
+			"ShipType": 1,
+			"AddressLine2": "",
+			"AddressLine1": "POBox 3537",
+			"AddressLine3City": "Aguadilla",
+			"AddressLine4State": "UM",
+			"CompanyName": "",
+			"CountryCode": "US",
+			"EndContactEmail": "BertoTaty22@Gmail.com",
+			"EndContactPhone": "{787} 229 8499",
+			"FirstName": "Carlos A",
+			"Height": 40,
+			"LastName": "Rosa Roldan",
+			"Length": 30,
+			"OrderNumber": "TestUM",
+			"ParcelWeight": 0.545,
+			"Postcode": "00605",
+			"ShipmentItemsArray": [
+				{
+					"ProductDescription": "Elsa Handmade Leather Sandals",
+					"ItemCategory": "clothing",
+					"ProductHarmonizedCode": "8306100000",
+					"ProductItemOrigin": "IL",
+					"ProductQuantity": 1,
+					"ProductUnitValue": 39.99,
+					"ProductUnitWeight": 2
+				}
+			],
+			"Width": 30
+		}
+	}
+}

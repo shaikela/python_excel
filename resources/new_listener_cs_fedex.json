@@ -1,0 +1,48 @@
+{
+  "CreateShipment": {
+    "userName": "JWGusernameTest",
+    "password": "JWGpasswardTest",
+    "s": {
+      "Bin": null,
+      "Fourlogref": "48545",
+      "AddrValid": null,
+      "Location": 1,
+      "ShipType": "2",
+      "AddressLine2": null,
+      "AddressLine1": "15 Stewart Court",
+      "AddressLine3City": "Doonan",
+      "CompanyName": null,
+      "CountryCode": "AU",
+      "EndContactEmail": "williamgsmith123@hotmail.com",
+      "EndContactPhone": "+61400728857",
+      "FirstName": "William",
+      "Height": 0,
+      "LastName": "Smith",
+      "Length": 0,
+      "OrderNumber": "41000499033",
+      "ParcelWeight": 2.37,
+      "Postcode": "4562",
+      "ShipmentItemsArray": [
+        {
+          "ProductDescription": "The Jerusalem Bible with Thumb Tabs - Hebrew / Eng",
+          "ItemCategory": "books",
+          "ProductHarmonizedCode": "8306100000",
+          "ProductItemOrigin": "IL",
+          "ProductQuantity": 1.0,
+          "ProductUnitValue": 55,
+          "ProductUnitWeight": 5.0
+        },
+        {
+          "ProductDescription": "The Koren Sacks Siddur with Leather Binding - Hebr",
+          "ItemCategory": "books",
+          "ProductHarmonizedCode": "8306100000",
+          "ProductItemOrigin": "IL",
+          "ProductQuantity": 1.0,
+          "ProductUnitValue": 25,
+          "ProductUnitWeight": 4.0
+        }
+      ],
+      "Width": 0
+    }
+  }
+}

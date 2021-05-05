@@ -1,0 +1,49 @@
+{
+  "CreateShipment": {
+    "userName": "JWGusernameTest",
+    "password": "JWGpasswardTest",
+    "s": {
+      "Bin": "",
+      "Fourlogref": "49626",
+      "AddrValid": "",
+      "Location": 1,
+      "ShipType": 2,
+      "AddressLine2": "",
+      "AddressLine1": "3925  Denver Avenue",
+      "AddressLine3City": "Riverside",
+      "AddressLine4State": "CA",
+      "CompanyName": "",
+      "CountryCode": "GB",
+      "EndContactEmail": "tatemeghan@aol.com",
+      "EndContactPhone": " (248) 376 2001",
+      "FirstName": "Meghan",
+      "Height": 0,
+      "LastName": "Tate-Redmond",
+      "Length": 0,
+      "OrderNumber": "41000501335-7",
+      "ParcelWeight": 1.1,
+      "Postcode": "ab10 1aa",
+      "ShipmentItemsArray": [
+        {
+          "ProductDescription": "Classic Sterling Silver Star of David Necklace",
+          "ItemCategory": "jewelry",
+          "ProductHarmonizedCode": "8306100000",
+          "ProductItemOrigin": "IL",
+          "ProductQuantity": "1.0000",
+          "ProductUnitValue": 34,
+          "ProductUnitWeight": "1.0000"
+        },
+        {
+          "ProductDescription": "14K Gold Star of David - Dove Pendant with Diamond",
+          "ItemCategory": "jewelry",
+          "ProductHarmonizedCode": "8306100000",
+          "ProductItemOrigin": "IL",
+          "ProductQuantity": "1.0000",
+          "ProductUnitValue": 129,
+          "ProductUnitWeight": "1.0000"
+        }
+      ],
+      "Width": 0
+    }
+  }
+}

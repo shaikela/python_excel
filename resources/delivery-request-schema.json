@@ -1,0 +1,48 @@
+{
+    "CreateDelivery": {
+        "userName": "JWGusernameTest",
+        "password": "JWGpasswardTest",
+        "s": {
+            "Bin": "",
+            "Fourlogref": "",
+            "AddrValid": "",
+            "Location": 1,
+            "ShipType": -1,
+            "AddressLine2": "",
+            "AddressLine1": "",
+            "AddressLine3City": "",
+            "AddressLine4State": "",
+            "CompanyName": "",
+            "CountryCode": "",
+            "EndContactEmail": "",
+            "EndContactPhone": "",
+            "FirstName": "",
+            "Height": -1,
+            "LastName": "",
+            "Length": -1,
+            "OrderNumber": "",
+            "ParcelWeight": -1,
+            "Postcode": "",
+            "ShipmentItemsArray": [
+                {
+                    "ProductDescription": "Judaica",
+                    "ItemCategory": "gifts",
+                    "ProductHarmonizedCode": "",
+                    "ProductItemOrigin": "",
+                    "ProductQuantity": -1,
+                    "ProductUnitValue": -1,
+                    "ProductUnitWeight": -1
+                }
+            ],
+            "Width": -1,
+			"InvoiceNumber": "",
+			"ShippingTerms": "",
+			"Vat": "",
+			"Currency": "",
+			"PurchasedBy": "",
+			"Uom": "",
+			"UomDim": "",
+			"Source": "4LOG-CS"
+        }
+    }
+}

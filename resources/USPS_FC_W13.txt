@@ -1,0 +1,61 @@
+XML=<eVSCertifyRequest USERID="888ASALO5745">
+    <Option>1</Option>
+    <Revision>1</Revision>
+    <FromName>Joe Smith</FromName>
+    <FromFirm>ABC Corp.</FromFirm>
+    <FromAddress1>Apt. 3C</FromAddress1>
+    <FromAddress2>6406 Ivy Lane</FromAddress2>
+    <FromCity>Greenbelt</FromCity>
+    <FromState>MD</FromState>
+    <FromZip5>20770</FromZip5>
+    <FromZip4>1234</FromZip4>
+    <FromPhone>5708208072</FromPhone>
+    <POZipCode/>
+    <AllowNonCleansedOriginAddr>false</AllowNonCleansedOriginAddr>
+    <ToName>Tom Collins</ToName>
+    <ToFirm>XYZ Corp.</ToFirm>
+    <ToAddress1>APT 1</ToAddress1>
+    <ToAddress2>970 DR MARTIN LUTHER KING JR BLVD</ToAddress2>
+    <ToCity>RIVIERA BEACH</ToCity>
+    <ToState>FL</ToState>
+    <ToZip5>33404</ToZip5>
+    <ToZip4>7400</ToZip4>
+    <ToPhone />
+    <POBox />
+    <AllowNonCleansedDestAddr>false</AllowNonCleansedDestAddr> 
+    <WeightInOunces>13</WeightInOunces>
+    <ServiceType>FIRST CLASS</ServiceType>
+    <Container>VARIABLE</Container>
+    <Width />
+    <Length />
+    <Height />
+    <Machinable />
+    <ProcessingCategory />
+    <PriceOptions />
+    <InsuredAmount />
+    <AddressServiceRequested />
+    <ExpressMailOptions>
+        <DeliveryOption />
+        <WaiverOfSignature />
+    </ExpressMailOptions>
+    <ShipDate />
+    <CustomerRefNo>92000</CustomerRefNo>
+    <CustomerRefNo2>27800</CustomerRefNo2> 
+    <ExtraServices>
+        <ExtraService />
+    </ExtraServices>
+    <HoldForPickup />
+    <OpenDistribute />
+    <PermitNumber />
+    <PermitZIPCode />
+    <PermitHolderName />
+    <CRID />
+    <SenderName />
+    <SenderEMail />
+    <RecipientName>Joseph Smoth</RecipientName>
+    <RecipientEMail>jsmith1234@aol.com</RecipientEMail>
+    <ReceiptOption />
+    <ImageType>PDF</ImageType>
+    <PrintCustomerRefNo>true</PrintCustomerRefNo>
+    <PrintCustomerRefNo2>true</PrintCustomerRefNo2>
+</eVSCertifyRequest>

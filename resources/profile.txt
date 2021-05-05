@@ -1,0 +1,32 @@
+p	Delivery	ARR	ARRusername	ARRpassword	01001538
+p	Delivery	BEIJA	Beija	Flor	01001632
+p	Delivery	CAROLINA	CAROLINAusername	CAROLINApassword	01001485
+p	Delivery	AJUDAICA	AJWGusername	AJWGpassward	01001673
+p	Delivery	JWG	JWGusername	JWGpassward	01001559
+p	Delivery	VIRI	VIRIusername	VIRIpassword	01001622
+p	Delivery	HBG	HBGusername	HBGpassward	
+p	Delivery	KING	KINGusername	KINGpassward	
+p	Delivery	GRANALIX	GRANALIXusername	GRANALIXpassward	01001645
+p	Delivery	OHK	Hemaclearusername	Hemaclearpassward	01000853
+p	Delivery	COBRA	Cobrausername	Cobrapassward	01001635
+p	Delivery	HUMANEYES	Humaneyesusername	Humaneyespassward	01001274
+p	Delivery	IZGUT	IZGUTusername	IZGUTpassward	01001661
+p	Delivery	ENTRADE	Entradeusername	Entradepassward	01001677
+p	Delivery	HALLELUYAH	Halleluyahusername	Halleluyahpassward	01001681
+p	Delivery	CAMMELLATTE	Cammellatteusername	Cammellattepassward	01001685
+p	Delivery	LHO	LHOusername	LHOpassward	01001689
+t	Delivery	ARR	ARRusernameTest	ARRpasswordTest	
+t	Delivery	BEIJA	BeijausernameTest	BeijapasswardTest	
+t	Delivery	CAROLINA	CAROLINAusernameTest	CAROLINApasswordTest	01001483
+t	Delivery	AJUDAICA	AJWGusernameTest	AJWGpasswardTest	01001675
+t	Delivery	JWG	JWGusernameTest	JWGpasswardTest	01001655
+t	Delivery	VIRI	VIRIusernameTest	VIRIpasswordTest	01001643
+t	Delivery	HBG	HBGusernameTest	HBGpasswardTest	
+t	Delivery	GRANALIX	GRANALIXusernameTest	GRANALIXpasswardTest	01001647
+t	Delivery	OHK	HemaclearusernameTest	HemaclearpasswardTest	01001657
+t	Delivery	COBRA	CobrausernameTest	CobrapasswardTest	
+t	Delivery	HUMANEYES	HumaneyesusernameTest	HumaneyespasswardTest	01001653
+t	Delivery	ENTRADE	EntradeusernameTest	EntradepasswardTest	01001679
+t	Delivery	HALLELUYAH	HalleluyahusernameTest	HalleluyahpasswardTest	01001683
+t	Delivery	CAMMELLATTE	CammellatteusernameTest	CammellattepasswardTest	01001559
+t	Delivery	LHO	LHOusernameTest	LHOpasswardTest	01001691

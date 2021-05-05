@@ -1,0 +1,34 @@
+{
+    "CreateDelivery": {
+        "userName": "JWGusernameTest",
+        "password": "JWGpasswardTest",
+        "s": {
+            "AddrValid": "ACK",
+            "Location": 0,
+            "ShipType": "1",
+            "AddressLine1": "2796 Garrett Place",
+            "AddressLine3City": "Woodland",
+            "AddressLine4State": "CA",
+            "CountryCode": "US",
+            "EndContactEmail": "richrowe_2000@yahoo.com",
+            "EndContactPhone": "5108213739",
+            "FirstName": "Richard",
+            "Height": 0,
+            "LastName": "Rowe",
+            "Length": 0,
+            "OrderNumber": "1202",
+            "ParcelWeight": 2.1,
+            "Postcode": "95776",
+            "ShipmentItemsArray": [
+                {
+                    "ProductDescription": "ViriMASK™",
+                    "ProductItemOrigin": "IL",
+                    "ProductQuantity": 5.0,
+                    "ProductUnitValue": 0,
+                    "ProductUnitWeight": 0.42
+                }
+            ],
+            "Width": 0
+        }
+    }
+}

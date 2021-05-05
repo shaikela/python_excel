@@ -1,0 +1,62 @@
+{
+  "Apikey": "398fd1325dd29018",
+  "Command": "OrderShipment",
+  "Shipment": {
+    "LabelFormat": "PDF",
+    "ShipperReference": "Test_001",
+    "Service": "PPTT",
+    "DisplayId": "Test_002",
+    "InvoiceNumber": "6788900000",
+   
+    "ConsignorAddress": {
+      "Name": "Haim Pack",
+      "Company": "4LOG LTD",
+      "AddressLine1": "Schippol Boulevard 127",
+      "AddressLine2": "",
+      "AddressLine3": "",
+      "City": "Luchthaven Schippol",
+      "State": "",
+      "Zip": "1118GB",
+      "Country": "NL",
+      "Phone": "+31611223344",
+      "Email": "haim.pack@4log.com",
+      "Vat": "8591.16.372.B02"
+    },
+    "ConsigneeAddress": {
+      "Name": "MONIQUE BENATAR",
+      "Company": "MONIQUE BENATAR",
+      "AddressLine1": "AnsgarstrStraße . 4, ",
+      "AddressLine2": "",
+      "AddressLine3": "",
+      "City": "Wallenhorst",
+      "State": "NY",
+      "Zip": "49134",
+      "Country": "DE",
+      "Phone": "0035054888000",
+      "Email": "gabnique@hotmail.com",
+      "Vat": ""
+    },
+    "Weight": "0.85",
+    "WeightUnit": "kg",
+    "Length": "20",
+    "Width": "10",
+    "Height": "10",
+    "DimUnit": "cm",
+    "Value": "20",
+    "Currency": "EUR",
+    "CustomsDuty": "DDU",
+    "Description": "Novel: LOTR – The Return of The King",
+    "DeclarationType": "SaleOfGoods",
+    "Products": [
+      {
+        "Description": "Book 1",
+        "Sku": "000001",
+        "HsCode": "49011010",
+        "OriginCountry": "CN",
+        "PurchaseUrl": "http://url.com/book1",
+        "Quantity": "1",
+        "Value": "20"
+      }
+    ]
+  }
+}

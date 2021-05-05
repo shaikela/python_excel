@@ -1,0 +1,40 @@
+{
+  "CreateShipment": {
+    "userName": "JWGusername",
+    "password": "JWGpassward",
+    "s": {
+      "Bin": "",
+      "Fourlogref": "49585",
+      "AddrValid": "",
+      "Location": 1,
+      "ShipType": 1,
+      "AddressLine2": "",
+      "AddressLine1": "2917 Hunter Rd Apt42",
+      "AddressLine3City": "San Marcos",
+      "AddressLine4State": "TX",
+      "CompanyName": "",
+      "CountryCode": "US",
+      "EndContactEmail": "ahava555@yahoo.com",
+      "EndContactPhone": "5122143055",
+      "FirstName": "Anita",
+      "Height": 1,
+      "LastName": "Fields",
+      "Length": 1,
+      "OrderNumber": "41000497689USN",
+      "ParcelWeight": 0.05,
+      "Postcode": "78666",
+      "ShipmentItemsArray": [
+        {
+          "ProductDescription": "Judaica",
+          "ItemCategory": "gifts",
+          "ProductHarmonizedCode": "3924140106",
+          "ProductItemOrigin": "IL",
+          "ProductQuantity": 1,
+          "ProductUnitValue": 50,
+          "ProductUnitWeight": 0.05
+        }
+      ],
+      "Width": 1
+    }
+  }
+}

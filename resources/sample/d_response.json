@@ -1,0 +1,8 @@
+{
+    "CreateDeliveryResponse": {
+        "StatusMessage": "OK",
+        "Fourlogref": "49780",
+        "AddrValid": "ACK",
+        "OrderNumber": "40012"
+    }
+}

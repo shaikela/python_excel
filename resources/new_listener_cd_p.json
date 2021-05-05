@@ -1,0 +1,40 @@
+{
+  "CreateDelivery": {
+    "userName": "JWGusername",
+    "password": "JWGpassward",
+    "s": {
+      "Bin": "",
+      "Fourlogref": "49625",
+      "AddrValid": "",
+      "Location": 1,
+      "ShipType": 1,
+      "AddressLine2": "",
+      "AddressLine1": "15002 Washington Hwy Unit B",
+      "AddressLine3City": "Ashland",
+      "AddressLine4State": "VA",
+      "CompanyName": "",
+      "CountryCode": "US",
+      "EndContactEmail": "shearithkodesh@gmail.com",
+      "EndContactPhone": "8046295656",
+      "FirstName": "Eric",
+      "Height": 1,
+      "LastName": "Harvey",
+      "Length": 1,
+      "OrderNumber": "61000002648",
+      "ParcelWeight": 1.555,
+      "Postcode": "23005",
+      "ShipmentItemsArray": [
+        {
+          "ProductDescription": "Judaica",
+          "ItemCategory": "gifts",
+          "ProductHarmonizedCode": "9810004500",
+          "ProductItemOrigin": "IL",
+          "ProductQuantity": 1,
+          "ProductUnitValue": 49.97,
+          "ProductUnitWeight": 1.555
+        }
+      ],
+      "Width": 1
+    }
+  }
+}
